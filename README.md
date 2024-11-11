@@ -10,3 +10,4 @@ ciao
 - affori centro
 - dergano
 - maciachini
+-zara
