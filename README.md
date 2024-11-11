@@ -11,3 +11,4 @@ ciao
 - dergano
 - maciachini
 -zara
+- sondrio
