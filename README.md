@@ -14,3 +14,4 @@ ciao
 - sondrio
 - centrale
 - repubblica
+- turati
