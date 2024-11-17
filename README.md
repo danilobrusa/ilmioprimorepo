@@ -10,5 +10,6 @@ ciao
 - affori centro
 - dergano
 - maciachini
--zara
+- zara
 - sondrio
+- centrale
