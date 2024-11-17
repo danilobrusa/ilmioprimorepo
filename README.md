@@ -20,3 +20,4 @@ ciao
 - missori
 - crocetta
 - p.ta romana
+- lodi
