@@ -17,3 +17,4 @@ ciao
 - turati
 - montenapoleone
 - duomo
+- missori
