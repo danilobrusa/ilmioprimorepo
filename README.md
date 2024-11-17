@@ -16,3 +16,4 @@ ciao
 - repubblica
 - turati
 - montenapoleone
+- duomo
