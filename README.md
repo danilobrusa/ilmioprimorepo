@@ -13,3 +13,4 @@ ciao
 - zara
 - sondrio
 - centrale
+- repubblica
