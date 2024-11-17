@@ -24,3 +24,4 @@ ciao
 - brenta
 - crovetto
 - porto di mare
+- rogoredo
