@@ -25,3 +25,4 @@ ciao
 - crovetto
 - porto di mare
 - rogoredo
+san donato
